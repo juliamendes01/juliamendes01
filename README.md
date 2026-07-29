@@ -1,4 +1,24 @@
-## Hi there 👋
+# Olá! Eu sou a Julia Mendes 👋
+
+🎓 Estudante de Tecnologia em Banco de Dados - Fatec Bauru
+
+💻 Estagiária de TI
+
+## Tecnologias
+
+- SQL
+- MySQL
+- PHP
+- HTML
+- CSS
+
+## Atualmente
+
+📚 Aprimorando conhecimentos em Banco de Dados e Desenvolvimento Web.
+
+## Contato
+
+LinkedIn:## Hi there 👋
 
 <!--
 **juliamendes01/juliamendes01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
