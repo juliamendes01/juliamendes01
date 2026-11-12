@@ -1,16 +1,11 @@
 # Olá! Eu sou a Julia Mendes 👋
-
-🎓 Estudante de Tecnologia em Banco de Dados - Fatec Bauru
-
-💻 Estagiária de TI
+Estudante de Banco de Dados na Fatec Bauru e estagiária de TI.
+Interesse em modelagem de dados, SQL e desenvolvimento web.
 
 ## Tecnologias
-
-- SQL
-- MySQL
-- PHP
-- HTML
-- CSS
+## Projetos em destaque
+## Estudando agora
+## Contato
 
 ## Atualmente
 
