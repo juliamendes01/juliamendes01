@@ -3,6 +3,8 @@
 Estudante de Banco de Dados na Fatec Bauru e estagiária de TI.
 Interesse em modelagem de dados, SQL e desenvolvimento web.
 
+Em busca de crescimento profissional na área de TI, com foco em banco de dados e desenvolvimento web
+
 ## Tecnologias
 
 - **Banco de dados:** SQL, MySQL
