@@ -10,7 +10,7 @@ Interesse em modelagem de dados, SQL e desenvolvimento web.
 
 ## Estudando agora
 
-- Python
+- Python para automação
 
 ## Contato
 
