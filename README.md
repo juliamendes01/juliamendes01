@@ -18,7 +18,7 @@
 
 ## Contato
 
-LinkedIn: https://www.linkedin.com/in/juliamendesdb?trk=contact-info
+LinkedIn: https://www.linkedin.com/in/juliamendesdb
 
 <!--
 **juliamendes01/juliamendes01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
